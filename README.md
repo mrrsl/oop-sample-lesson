@@ -1,4 +1,4 @@
-Sample lab written up as part of the missed OOP lesson plan for 12-02-2026.
+Lab and sample solution written up as part of the missed OOP lesson for 12-02-2026.
 
 ## Lab Scenario
 This lab will demonstrate the use of generics by implementing a train cart class that can hold generic types of cargo. Note that in this situation, using polymorphism would be better but this exercise is focused on learning how to use generics.
